@@ -113,7 +113,7 @@ I'm open to learning opportunities, collaborative projects, and suitable entry-l
 ## 🤝 Let's Connect
 * 📫 +254 114750610
 **Portfolio:** [Visit My Portfolio](https://my-portfolioo-susan-mugo.vercel.app/)
-**GitHub:** [Explore My Repositories](https://github.com/susanmugo)
+**GitHub:** [Explore My Repositories](https://github.com/suemugo?tab=repositories)
 
 I'm always happy to connect with people who are passionate about data, technology, innovation, and continuous learning.
 
